@@ -1,0 +1,6 @@
+FastAPI == 0.104.1
+Uvicorn == 0.24.0.post1
+Pydantic == 2.4.2
+JSON == 2.0.9
+Requests == 2.31.0
+Pickle == 4.0
